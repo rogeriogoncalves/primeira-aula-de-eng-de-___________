@@ -1,1 +1,9 @@
-Oi, eu sou o Jusééé o seu filho;
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Oi, eu sou o Jusééé o seu filho;" << endl;
+    return 0;
+}
